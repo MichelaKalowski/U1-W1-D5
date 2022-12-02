@@ -27,6 +27,16 @@ h1{
     font-weight: bold;
     color: rgb(101, 159, 224);
 }
+button{
+    background-color: red;
+  color: white;
+  margin: 2rem;
+  padding: 1rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  border-radius: 5px;
+  border:none;
+}
 main{
 text-align: center;
 }
@@ -43,4 +53,7 @@ color: rgb(101, 159, 224);
 .bannred{
     background-color: red;
     color: white;
+}
+.img2{
+    width: 80%;
 }
