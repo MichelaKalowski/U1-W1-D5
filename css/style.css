@@ -1,0 +1,32 @@
+/* Your styles here */
+body{
+    margin: 0cm;
+    text-align: center;
+    font-size: 1,2rem;
+    font-family: "Open Sans";
+    line-height: 1, 65rem;
+    color: black;
+}
+header{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    margin: 0cm;
+    max-width: 100%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.logo{
+    background-color: black;
+}
+header img{
+    padding: 2em;
+}
+h1{
+    font-size: medium;
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: rgb(101, 159, 224);
+}
+main img{
+    border-radius: 150%;
+}
