@@ -22,11 +22,25 @@ header img{
     padding: 2em;
 }
 h1{
-    font-size: medium;
+    font-size: 30px;
     font-family: "Montserrat";
     font-weight: bold;
     color: rgb(101, 159, 224);
 }
-main img{
-    border-radius: 150%;
+main{
+text-align: center;
+}
+.img1{
+    border-radius: 100%;
+    width: 40%;
+}
+h5{
+font-size: medium;
+font-family: "Montserrat";
+font-weight: bold;
+color: rgb(101, 159, 224);
+}
+.bannred{
+    background-color: red;
+    color: white;
 }
