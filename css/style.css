@@ -1,59 +1,129 @@
 /* Your styles here */
-body{
+body {
     margin: 0cm;
     text-align: center;
-    font-size: 1,2rem;
+    font-size: 1, 2rem;
     font-family: "Open Sans";
     line-height: 1, 65rem;
-    color: black;
+    color: #393d41;
 }
-header{
+
+header {
+    background-color: black;
     background-image: url(../images/banner.jpg);
     background-size: cover;
     margin: 0cm;
     max-width: 100%;
     padding-top: 2em;
     padding-bottom: 2em;
+    font-family: "Montserrat", sans-serif;
 }
-.logo{
+.logo {
     background-color: black;
+    padding-top: 2em;
 }
-header img{
+
+header img {
     padding: 2em;
 }
-h1{
+
+h1 {
     font-size: 30px;
     font-family: "Montserrat";
     font-weight: bold;
     color: rgb(101, 159, 224);
 }
-button{
-    background-color: red;
-  color: white;
-  margin: 2rem;
-  padding: 1rem;
-  font-family: "Montserrat";
-  font-weight: bold;
-  border-radius: 5px;
-  border:none;
+
+button {
+    background-color: #f04c2f;
+    color: white;
+    margin: 2rem;
+    padding: 1rem;
+    font-family: "Montserrat";
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
 }
-main{
-text-align: center;
+
+main {
+    text-align: center;
+    font-family: "Montserrat";
 }
-.img1{
+
+.article1 {
+    border-style: solid;
+    border: 20px;
+    border-color: #dee1e3;
+}
+
+.img1 {
     border-radius: 100%;
     width: 40%;
 }
-h5{
-font-size: medium;
-font-family: "Montserrat";
-font-weight: bold;
-color: rgb(101, 159, 224);
+
+h5 {
+    font-size: medium;
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: rgb(101, 159, 224);
 }
-.bannred{
-    background-color: red;
+
+.bannred {
+    background-color: #f04c2f;
+    color: white;
+    height: 150px;
+    padding: 20px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Montserrat";
+}
+
+.bannred span {
+    font-style: italic;
+}
+
+.img2 {
+    width: 80%;
+}
+
+.img3 {
+    width: 80%;
+}
+
+.img4 {
+    width: 80%;
+}
+
+footer {
+    background-color: #25a2c3;
+    color: #c8e7f0;
+    height: 300px;
+}
+
+.contattaci {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Montserrat";
     color: white;
 }
-.img2{
-    width: 80%;
+
+footer a {
+    font-size: 15px;
+    font-family: "Montserrat";
+    text-align: center;
+    color: #c8e7f0;
+}
+
+hr {
+    margin: 100px;
+    margin-top: 20px;
+}
+
+.fa-regular {
+    font-size: 15px;
+    font-family: "Montserrat";
+    text-align: center;
 }
