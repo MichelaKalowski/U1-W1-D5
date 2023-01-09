@@ -23,6 +23,7 @@ header {
 .logo {
     background-color: black;
     padding-top: 2em;
+    width: 100%;
 }
 
 header img {
@@ -93,7 +94,7 @@ h2 {
     border: solid;
     border-radius: 5px;
     border-color: lightgrey;
-
+    margin: 20px;
 }
 
 
@@ -102,6 +103,7 @@ h2 {
     border: solid;
     border-radius: 5px;
     border-color: lightgrey;
+    margin: 20px;
 }
 
 .img2 {
